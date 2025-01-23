@@ -1,3 +1,6 @@
+
+import os
+os.system("pip install matplotlib==3.10.0")
 import streamlit as st
 import pandas as pd
 import json
